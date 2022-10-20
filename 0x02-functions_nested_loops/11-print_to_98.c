@@ -9,6 +9,8 @@
 
 int main(void)
 {
+	int x, y, z, a;
+
 	print_times_table(3);
 	_putchar('\n');
 	print_times_table(5);
