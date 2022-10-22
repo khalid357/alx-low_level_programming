@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_to_98 - print all numbers from inout to 98
+ * print_to_98 - print all numbers from input to 98
  * @n: starting the number
  */
 
